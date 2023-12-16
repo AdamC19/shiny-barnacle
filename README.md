@@ -22,3 +22,11 @@ Starting 2 weeks late...
 * got part 1 on second try. Missed an increment.
 * Part 2 I got on first go.
 * Day 3 complete.
+
+#### Day 4
+* Part 1 looks almost too easy. Wonder what the catch is...
+* Part 1 done on first go. Part 2 has got to be a doozy right?
+* ohhhh boy lol...
+* so this is where the recursion begins?
+* Ok, so maybe not recursion yet, but I feel recursion coming soon.
+* Part 2 done on first go! Totally did not expect that.
