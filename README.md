@@ -41,3 +41,10 @@ Starting 2 weeks late...
 * Nearly crashing my computer trying to solve this one.
 * switched from max RAM usage to max CPU usage lol.
 * Day 5 part 2 looks like one to revisit later.
+
+### 2023.12.17
+#### Day 6
+* I started writing a function for finding distance from hold time and realized that it forms a quadratic equation and I just need to find the zeros of it.
+* hardest part about round 1 was figuring out the best way to "round" the result. Ended up just doing dumb if statements
+* part 2 looks pretty easy cuz I did it the mathematic way to begin with.
+* Ez ez, done in less than 30 minutes.
