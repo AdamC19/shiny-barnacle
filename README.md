@@ -48,3 +48,15 @@ Starting 2 weeks late...
 * hardest part about round 1 was figuring out the best way to "round" the result. Ended up just doing dumb if statements
 * part 2 looks pretty easy cuz I did it the mathematic way to begin with.
 * Ez ez, done in less than 30 minutes.
+
+#### Day 7
+* This one obviously involves sorting.
+* Python certainly has sorting algorithms, but it seemed too hard/too much effort to use them, so I just wrote my own quick-sort algorithm.
+* I used a few copy.deepcopy() calls, not totally sure if they're needed, but seemed like the thing to do.
+* First attempt get's wrong answer (it works on the sample data!!).
+* Ok, so the sort doesn't work on the full input data (sad face).
+* I think I would like to implement merge sort better than quicksort.
+* Second try, got it. Merge sort worked, but was initially confused about my array copying.
+* On part 2, missed the first try (it works on the sample!).
+* I think I might know what I'm doing wrong....
+* Second try, got it! What I was doing was not considering the MAX possible Joker card option.
