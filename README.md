@@ -30,3 +30,14 @@ Starting 2 weeks late...
 * so this is where the recursion begins?
 * Ok, so maybe not recursion yet, but I feel recursion coming soon.
 * Part 2 done on first go! Totally did not expect that.
+
+#### Day 5
+* Part 1 is taking some thought.
+* starting more bottom up this time.
+* uh-oh, this one is taking awhile to run... Gotta actually start thinking about stuff.
+* My first attempt will take an unreal amount of time to run and a ton of RAM. Gotta get smart here...
+* First go, right answer. Hell yeah.
+* PART 2
+* Nearly crashing my computer trying to solve this one.
+* switched from max RAM usage to max CPU usage lol.
+* Day 5 part 2 looks like one to revisit later.
