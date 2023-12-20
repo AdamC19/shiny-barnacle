@@ -60,3 +60,13 @@ Starting 2 weeks late...
 * On part 2, missed the first try (it works on the sample!).
 * I think I might know what I'm doing wrong....
 * Second try, got it! What I was doing was not considering the MAX possible Joker card option.
+
+### 2023.12.19
+#### Day 8
+* after 20 minutes of coding, the 2 samples work, but I'm nervous to try my answer in the text input lol.
+* the program is really chewing on the input lol.
+* I just thought of another way to approach this. Once you have a path tried out, if you ever encounter that path again, you know how many steps it takes to get through it. 
+* wait, I think I'm actually supposed to start at AAA rather than the first line...
+  * Duh that was stupid lol. Program works.
+* Ok, part 2 works on sample but is actually taking awhile on the actual input. May need to actually start thinking here...
+* I can't believe my solution worked! I actually did a "hand calc" at the end there, but could have totally finished the whole puzzle with code.
